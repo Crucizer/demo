@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{ "success": true, "message": "Successfully fetched all item(s)", "total": 6, "data": [{ "quantity": 0, "avgCostPrice": 0, "lastSellPrice": 0, "stock": ["608daee68c33273c1880daf3", "608db0438c33273c1880daf5", "608db65a8c33273c1880daf7"], "isActive": true, "createdAt": "2021-05-01T18:48:32.961Z", "modifiedAt": "2021-05-01T18:48:32.961Z", "_id": "608da2b24c5e7243e879861b", "name": "Item 1", "code": "I01", "__v": 0 }, { "quantity": 0, "avgCostPrice": 0, "lastSellPrice": 0, "stock": [], "isActive": true, "createdAt": "2021-05-01T18:48:32.961Z", "modifiedAt": "2021-05-01T18:48:32.961Z", "_id": "608da2c34c5e7243e879861c", "name": "Item 2", "code": "I02", "__v": 0 }, { "quantity": 0, "avgCostPrice": 0, "lastSellPrice": 0, "stock": [], "isActive": true, "createdAt": "2021-05-01T18:48:32.961Z", "modifiedAt": "2021-05-01T18:48:32.961Z", "_id": "608da2c74c5e7243e879861d", "name": "Item 3", "code": "I03", "__v": 0 }, { "quantity": 0, "avgCostPrice": 0, "lastSellPrice": 0, "stock": [], "isActive": true, "createdAt": "2021-05-01T18:48:32.961Z", "modifiedAt": "2021-05-01T18:48:32.961Z", "_id": "608da2cc4c5e7243e879861f", "name": "Item 4", "code": "I04", "__v": 0 }, { "quantity": 0, "avgCostPrice": 0, "lastSellPrice": 0, "stock": [], "isActive": true, "createdAt": "2021-05-01T18:48:32.961Z", "modifiedAt": "2021-05-01T18:48:32.961Z", "_id": "608da2cf4c5e7243e8798620", "name": "Item 5", "code": "I05", "__v": 0 }, { "quantity": 0, "avgCostPrice": 0, "lastSellPrice": 0, "stock": [], "isActive": true, "createdAt": "2021-05-01T18:48:32.961Z", "modifiedAt": "2021-05-01T18:48:32.961Z", "_id": "608da2d34c5e7243e8798621", "name": "Item 6", "code": "I06", "__v": 0 }] }
